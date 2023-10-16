@@ -32,7 +32,7 @@ add_subdirectory( test )
 add_subdirectory( examples )
 
 # iterative cartan
-# add_subdirectory( iterative_cartan )
+add_subdirectory( iterative_cartan )
 
 
 #SET(GCC_COVERAGE_COMPILE_FLAGS "-O3 -fopenmp -std=c++20")
